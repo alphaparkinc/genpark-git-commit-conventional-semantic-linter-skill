@@ -1,0 +1,9 @@
+{
+  "name": "genpark-git-commit-conventional-semantic-linter-skill",
+  "version": "1.0.1",
+  "description": "Conventional Commits 1.0.0 semantic linter and changelog grouping engine parsing breaking changes and issue refs",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "homepage": "https://www.genpark.ai",
+  "entrypoint": "mcp_server.py"
+}
